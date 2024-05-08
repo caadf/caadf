@@ -12,6 +12,4 @@ Desarrolladora Full-Stack junior y también nutricionista de Santiago, Chile. Co
 
 
 ### Conectame ⚡️
-<a href="mailto:c.adefrutos@gmail.com">[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)</a>
-<a href="www.linkedin.com/in/catalina-arroyo-de-frutos">[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)</a>
 
