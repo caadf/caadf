@@ -6,11 +6,8 @@
 
 
 ### Tecnologías 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,py,flask)](https://skillicons.dev) </br>
-[![My Skills](https://skillicons.dev/icons?i=github,vscode)](https://skillicons.dev)
-
-
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,py,flask&theme=light)](https://skillicons.dev) </br>
+[![My Skills](https://skillicons.dev/icons?i=github,vscode&theme=light)](https://skillicons.dev)
 
 <h3 align="left">Mas sobre mi⚡️:</h3>
 <p align="left">
