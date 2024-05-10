@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Catalina</h1>
-<h3 align="center">Desarrolladora Full-Stack junior y también nutricionista de Santiago, Chile. Con ganas de seguir aprendiendo tecnologías de programación y asi continuar creciendo profesionalmente y mejorar cada día.</h3>
+<h5 align="center">Desarrolladora Full-Stack junior y también nutricionista de Santiago, Chile. Con ganas de seguir aprendiendo tecnologías de programación y asi continuar creciendo profesionalmente y mejorar cada día.</h5>
 
 - 📫 How to reach me **c.adefrutos@gmail.com**
 
