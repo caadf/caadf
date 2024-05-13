@@ -21,6 +21,5 @@
 <a href="https://linkedin.com/in/catalina-arroyo-de-frutos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="catalina-arroyo-de-frutos" height="20" width="30" /></a>
 </p>
 
-
 </br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=caadf&show_icons=true&locale=en&layout=compact" alt="caadf" /></p>
